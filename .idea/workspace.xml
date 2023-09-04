@@ -4,10 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15dc082f-7df4-4dcc-a482-82dea1e0b66e" name="Changes" comment="update 16.08.23">
-      <change beforePath="$PROJECT_DIR$/С2/Sea_battle/Sea_Battle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/С2/Sea_battle/Sea_battle_example.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/С2/С2.py" beforeDir="false" />
+    <list default="true" id="15dc082f-7df4-4dcc-a482-82dea1e0b66e" name="Changes" comment="update 22.08.23">
+      <change afterPath="$PROJECT_DIR$/.idea/SkillFactory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D1/firstproject/fpages/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D1/firstproject/templates/flatpages/contact_page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D1/firstproject/templates/flatpages/default.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D1/firstproject/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/D1/firstproject/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D1/firstproject/firstproject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/D1/firstproject/firstproject/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D1/firstproject/firstproject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/D1/firstproject/firstproject/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,15 +45,21 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\PythonProjects\SkillFactory\D1\firstproject\templates" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -63,11 +77,20 @@
       <option name="project" value="LOCAL" />
       <updated>1692205897688</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update 22.08.23">
+      <option name="closed" value="true" />
+      <created>1692722182792</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1692722182792</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update 16.08.23" />
-    <option name="LAST_COMMIT_MESSAGE" value="update 16.08.23" />
+    <MESSAGE value="update 22.08.23" />
+    <option name="LAST_COMMIT_MESSAGE" value="update 22.08.23" />
   </component>
 </project>
